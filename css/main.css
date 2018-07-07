@@ -1,0 +1,20 @@
+
+.text-center {
+	margin-top :10px;
+}
+
+
+.btn-round, .btn-lg {
+    margin-top: -20px;
+    background-color :#16ae9F;
+}
+
+p.a{
+	font-family: 'Nucleo Outline';
+	font-size:18px;
+	color: #16ae9F;
+}
+
+.copyright.a {
+	color :#16ae9F;
+}
